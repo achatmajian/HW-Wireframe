@@ -1,0 +1,143 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+h1 {
+    color: #777;
+    margin-top: -27px;
+}
+
+p {
+    color: #777;
+    margin-top: -27px; 
+}
+
+header {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 95px; 
+    background: #ebebeb;
+    height: 95px;
+    width: 940px;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+    margin-right: -25%;
+    margin-left: 25%;
+}
+
+nav {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 95px; 
+    background: #ebebeb;
+    height: 95px;
+    width: 940px;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+    position: relative;
+    top: 5px;
+    margin-right: -25%;
+    margin-left: 25%;
+}
+
+section {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 95px; 
+    background: #ebebeb;
+    width: 495px;
+    height: 320px;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+    position: relative;
+    top: 15px;
+    margin-right: -25%;
+    margin-left: 25%;
+}
+
+aside {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 95px; 
+    background: #ebebeb;
+    width: 403px;
+    height: 320px;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+    position: relative;
+    bottom: 335px;
+    right: -537px;
+    margin-right: -25%;
+    margin-left: 25%;
+}
+
+footer {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 95px; 
+    background: #ebebeb;
+    height: 95px;
+    width: 940px;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+    margin: 10px;
+    position: relative;
+    bottom: 323px;
+    margin-right: -25%;
+    margin-left: 25%;
+}
+
+article {
+    color: #ebebeb;
+    background: #777;
+    height: 220px;
+    padding: 2px;
+    border-top: -5px;
+    padding-top: -2px;
+    margin-left: 2%;
+    padding-left: 2px;
+    margin-top: -13px;
+    margin-right: 2%;
+}
+
+
+#headertext {
+    background-color: #ebebeb;
+    color: #777
+    width: 430px;
+    height: 40px; 
+    margin: 10px;
+    padding: 10px;
+    border: 5px;
+    text-align: center;
+    vertical-align: middle;
+    position: relative;
+    top: -30px;
+    margin-right: 6%;
+    margin-left: 6%;
+}
+
+#ptext {
+    background-color: #ebebeb;
+    color: #777
+    width: 430px;
+    height: 40px; 
+    margin: 10px;
+    padding: 10px;
+    border: 5px;
+    text-align: center;
+    vertical-align: middle;
+    position: relative;
+    top: -30px;
+    margin-right: 6%;
+    margin-left: 6%;
+}
